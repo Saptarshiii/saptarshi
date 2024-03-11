@@ -1,0 +1,17 @@
+/* styles.css */
+nav {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    margin: 0 10px;
+}
+
+.content {
+    /* Add your content styling here */
+}
